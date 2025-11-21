@@ -2,7 +2,7 @@
   <remote name="sorayukii" fetch="https://github.com/Sorayukii" />
   
   <project path="device/sony/aurora" name="android_device_sony_aurora" remote="sorayukii" revision="15" />
-  <project path="device/sony/tama-common" name="android_device_sony_tama-common" remote="sorayukii" revision="15" />
+  <project path="device/sony/tama-common" name="android_device_sony_tama-common" remote="sorayukii" revision="matrixx-15" />
   <project path="kernel/sony/sdm845" name="stardust_kernel_sony_sdm845" remote="sorayukii" revision="stock" />
   <project path="vendor/sony/aurora" name="proprietary_vendor_sony_aurora" remote="sorayukii" revision="15" />
   <project path="vendor/sony/tama-common" name="proprietary_vendor_sony_tama-common" remote="sorayukii" revision="15" />
